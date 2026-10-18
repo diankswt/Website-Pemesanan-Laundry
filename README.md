@@ -1,6 +1,6 @@
 # 🧺 Laundry Management System — Kelompok 8
 
-### 1. Dashboard Laundry
+Dashboard Laundry
 ![Dashboard Laundry](proyek3.jpeg)
 Aplikasi **Laundry Management System** merupakan aplikasi berbasis web untuk membantu pengelolaan operasional usaha laundry. Aplikasi ini menyediakan fitur pengaturan data karyawan, pengelolaan pelanggan, transaksi laundry, dan laporan untuk mempermudah proses administrasi.
 
